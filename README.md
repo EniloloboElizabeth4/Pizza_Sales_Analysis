@@ -6,18 +6,19 @@ Jubyter Notebook (Development environment)
 Matplotlib & Seaborn (Advanced data visualization)
 
 
-Key Business Questions Addressed
+Key Business Questions Addressed: 
 ​Time Trends: When are the peak hours and busiest days for orders?
 ​Financial Impact: What does the monthly revenue trend look like across the year?
 ​Product Performance: Which pizza types are the highest earners, and which are underperforming?
 ​
 
-Featured VVisualization
+Featured Visualization: [Peak Hour Sales](Peak_hour.png)
+ [Monthly Sales Trend](Monthly_sales.png) 
 ​Monthly Revenue: Identified peak seasonal periods using custom chronological sorting.
 ​Hourly Peaks: Visualized the "lunch vs. dinner" rush using line plots.
 ​
 
-Key Features
+Key Features: 
 ​Feature Engineering: Created a revenue column by calculating quantity * price, and also created the day of the week, month, and hour columns to ensure proper analysis.
 ​Data Cleaning: Handled date/time formatting for accurate chronological plotting.
 ​Warning-Free Code: Optimized Seaborn plots to comply with the latest documentation standards (handling hue and palette deprecations).
