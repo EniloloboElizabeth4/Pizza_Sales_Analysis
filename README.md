@@ -5,15 +5,18 @@ Tech Stack:Python (Pandas for data manipulation)
 Jubyter Notebook (Development environment)
 Matplotlib & Seaborn (Advanced data visualization)
 
+
 Key Business Questions Addressed
 ​Time Trends: When are the peak hours and busiest days for orders?
 ​Financial Impact: What does the monthly revenue trend look like across the year?
 ​Product Performance: Which pizza types are the highest earners, and which are underperforming?
 ​
+
 Featured VVisualization
 ​Monthly Revenue: Identified peak seasonal periods using custom chronological sorting.
 ​Hourly Peaks: Visualized the "lunch vs. dinner" rush using line plots.
 ​
+
 Key Features
 ​Feature Engineering: Created a revenue column by calculating quantity * price, and also created the day of the week, month, and hour columns to ensure proper analysis.
 ​Data Cleaning: Handled date/time formatting for accurate chronological plotting.
