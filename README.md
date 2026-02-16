@@ -12,10 +12,12 @@ Key Business Questions Addressed:
 ​Product Performance: Which pizza types are the highest earners, and which are underperforming?
 ​
 
-Featured Visualization: [Peak Hour Sales](Peak_hour.png)
- [Monthly Sales Trend](Monthly_sales.png) 
+Featured Visualization: 
+[Peak Hour Sales](Peak_hour.png) 
+Hourly Peaks: Visualized the "lunch vs. dinner" rush using line plots.
+
+[Monthly Sales Trend](Monthly_sales.png) 
 ​Monthly Revenue: Identified peak seasonal periods using custom chronological sorting.
-​Hourly Peaks: Visualized the "lunch vs. dinner" rush using line plots.
 ​
 
 Key Features: 
